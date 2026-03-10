@@ -1,5 +1,7 @@
 # 🦅 Repo Analyzer Pipeline
 
+[![CI](https://github.com/syj940214/repo-analyzer-pipeline/actions/workflows/ci.yml/badge.svg)](https://github.com/syj940214/repo-analyzer-pipeline/actions/workflows/ci.yml)
+
 > **The Self-Driving AI Auditor for the Open Source Ecosystem.**
 
 Repo Analyzer Pipeline is an autonomous agentic system designed to monitor, audit, and validate thousands of Open Source Software (OSS) repositories 24/7. It bridges the gap between static code analysis and dynamic sandbox verification using a 3-engine "Hunter" architecture.
