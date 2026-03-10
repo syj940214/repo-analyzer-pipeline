@@ -1,0 +1,28 @@
+# OpenClaw .gitignore
+# Sensitive credentials
+.env
+*.token.json
+credentials/
+
+# Runtime data (not for public)
+staging/
+output/
+state/
+honeypot/
+logs/
+backups/
+memory/
+patches/
+
+# System files
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+Thumbs.db
+*.db
+*.log
+
+# IDE
+.vscode/
+.idea/
